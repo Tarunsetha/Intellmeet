@@ -26,6 +26,7 @@
     "mongoose": "^9.11.1",
     "multer": "^2.4.0",
     "multer-storage-cloudinary": "^4.0.0",
+    "socket.io": "^4.8.4",
     "uuid": "^14.0.3"
   },
   "devDependencies": {
